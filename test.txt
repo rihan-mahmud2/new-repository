@@ -1,1 +1,2 @@
 ECHO is on.
+I love working with git
